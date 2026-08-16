@@ -10,9 +10,9 @@
 Repositorio del curso de Métodos Computacionales en Física.
 
 ### 📚 Contenido
-* [`es/01_Introduccion_y_Preliminares.ipynb`](./ES/01_Introduccion_y_Preliminares.ipynb) - Introducción al entorno de trabajo y conceptos básicos.
-* [`es/02_Estructuras_de_Datos_y_Funciones.ipynb`](./ES/02_Estructuras_de_Datos_y_Funciones.ipynb) - Manejo de listas, arreglos y definición de funciones.
-* [`es/03_Programacion_Orientada_a_Objetos.ipynb`](./ES/03_Programacion_Orientada_a_Objetos.ipynb) - Principios de POO aplicados a la física computational.
+* [`ES/01_Introduccion_y_Preliminares.ipynb`](./ES/01_Introduccion_y_Preliminares.ipynb) - Introducción al entorno de trabajo y conceptos básicos.
+* [`ES/02_Estructuras_de_Datos_y_Funciones.ipynb`](./ES/02_Estructuras_de_Datos_y_Funciones.ipynb) - Manejo de listas, arreglos y definición de funciones.
+* [`ES/03_Programacion_Orientada_a_Objetos.ipynb`](./ES/03_Programacion_Orientada_a_Objetos.ipynb) - Principios de POO aplicados a la física computational.
 
 ---
 
@@ -21,9 +21,9 @@ Repositorio del curso de Métodos Computacionales en Física.
 Repository for the Computational Methods in Physics course.
 
 ### 📚 Contents
-* [`en/01_Introduction_and_Preliminaries.ipynb`](./EN/01_Introduction_and_Preliminaries.ipynb) - Introduction to the working environment and basic concepts.
-* [`en/02_Data_Structures_and_Functions.ipynb`](./EN/02_Data_Structures_and_Functions.ipynb) - Handling lists, arrays, and defining functions.
-* [`en/03_Object_Oriented_Programming.ipynb`](./EN/03_Object_Oriented_Programming.ipynb) - OOP principles applied to computational physics.
+* [`EN/01_Introduction_and_Preliminaries.ipynb`](./EN/01_Introduction_and_Preliminaries.ipynb) - Introduction to the working environment and basic concepts.
+* [`EN/02_Data_Structures_and_Functions.ipynb`](./EN/02_Data_Structures_and_Functions.ipynb) - Handling lists, arrays, and defining functions.
+* [`EN/03_Object_Oriented_Programming.ipynb`](./EN/03_Object_Oriented_Programming.ipynb) - OOP principles applied to computational physics.
 
 ---
 
