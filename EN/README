@@ -1,0 +1,38 @@
+# 🇬🇧 Computational Methods in Physics
+
+Course material for **Computational Methods in Physics**.
+
+[← Back to main README](../README.md)  
+[🇪🇸 Versión en español](../ES/README.md)
+
+---
+
+## 📚 Contents
+
+### 1. Introduction and tools
+
+| # | Notebook | Description |
+|---|---|---|
+| 01 | [Introduction and Preliminaries](./01_Introduction_and_Preliminaries.ipynb) | Introduction to the working environment, Python and Jupyter. |
+| 02 | [Data Structures and Functions](./02_Data_Structures_and_Functions.ipynb) | Lists, arrays, functions and basic structures. |
+| 03 | [Object-Oriented Programming](./03_Object_Oriented_Programming.ipynb) | OOP principles applied to computational physics. |
+
+### 2. Scientific computing
+
+...
+
+### 3. Numerical methods
+
+...
+
+### 4. Linear algebra
+
+...
+
+### 5. Differential equations
+
+...
+
+### 6. Applications in physics
+
+... 
