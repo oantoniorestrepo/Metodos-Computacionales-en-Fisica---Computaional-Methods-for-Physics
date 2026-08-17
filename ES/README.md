@@ -1,4 +1,3 @@
-```markdown
 # 🇪🇸 Métodos Computacionales en Física
 
 Material del curso de **Métodos Computacionales en Física**.
