@@ -27,7 +27,7 @@ Material del curso de **Métodos Computacionales en Física**.
 ### 3. Métodos para encontrar raices 
 | # | Notebook | Descripción |
 |---|---|---|
-| 07 | [Introducción calculo de raices de funciones](Clase_07_Metodo_Grafico_y_Biseccion.ipynb) | Funciones trascendentales, Método gráfico, Método de la bisección. |
+| 07 | [Introducción cálculo de raices](Clase_07_Metodo_Grafico_y_Biseccion.ipynb) | Funciones trascendentales, Método gráfico, Método de la bisección. |
 | 08 | [Métodos de orden uno](Clase_08_Punto_Fijo.ipynb) | Método de punto fijo, orden de convergencia, serie Taylor y estabilidad de puntos fijos. |
 | 09 | [Métodos de orden dos](Clase_09_Newton_Raphson_Secante_y_Otros.ipynb) | Métodos de Newton-Raphson, de la secante, de la posición falsa, de Steffensen y Aitken. |
 ...
