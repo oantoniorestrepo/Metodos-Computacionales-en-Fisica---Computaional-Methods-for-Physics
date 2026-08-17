@@ -1,11 +1,3 @@
-# 2. `ES/README.md`
-
-Aquí sí pondría el índice completo.
-
-Pero tampoco lo haría simplemente como una lista de 27 archivos. Aprovecharía para **agrupar los notebooks por bloques temáticos**.
-
-Por ejemplo:
-
 ```markdown
 # 🇪🇸 Métodos Computacionales en Física
 
