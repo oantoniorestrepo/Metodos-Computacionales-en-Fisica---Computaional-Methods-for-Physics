@@ -1,5 +1,4 @@
-# Métodos Computacionales en Física
-# Computational Methods in Physics
+# Métodos Computacionales en Física / Computational Methods in Physics
 
 [![Language: Spanish](https://img.shields.io/badge/Language-Spanish-red.svg)](./ES/)
 [![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](./EN/)
